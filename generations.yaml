@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_B-Class"
+
+generations:
+  - name: "First Generation (W245)"
+    start_year: 2005
+    end_year: 2011
+    description: "A compact MPV with the sandwich floor of the W169 A-Class."
+  - name: "Second Generation (W246)"
+    start_year: 2011
+    end_year: 2018
+    description: "On the MFA platform, with gasoline, diesel, natural gas and the electric B 250 e."
+  - name: "Third Generation (W247)"
+    start_year: 2019
+    end_year: null
+    description: "On the MFA2 platform shared with the W177 A-Class and the GLB."
